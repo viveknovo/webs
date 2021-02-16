@@ -1,0 +1,81 @@
+body{
+width:80%;
+margin:auto;
+}
+
+#contact{
+text-align:right;
+  color:deeppink;
+  font-weight:bold;
+}
+
+#main{
+  text-align:right;
+background-color:crimson;
+margin-top:10px;
+padding:10px;
+  color:white;
+  font-weight:bold;
+}
+
+#kv{
+width:100%
+}
+
+#Latestnews{
+  width:40%;
+  height:10px;
+ float:left;
+}
+
+#lnhead{
+background-color:red;
+color:snow;
+  margin-bottom:0px;
+}
+
+#Aboutus{
+width:58%;
+height:10px;
+float:right;
+}
+#auhead{
+background-color:wheat;
+color:slateblue;
+   margin-bottom:0px;
+}
+
+#marquee{
+background-color:#CCFF99;
+  color:black;
+  padding:10px;
+  height:100px;
+}
+#about{
+  background-color:#ff99ff;
+  color:black;
+  padding:10px;
+  height:100px
+  text-align:justify;
+}
+
+#para{
+  text-align:justify;
+  font-style:italic;
+  font-weight:bold;
+  color:#ff3399;
+  padding:5px;
+ width:60%;
+}
+#new{
+  color:red;
+  padding:10px;
+  height:100px;
+   margin-top:10px;
+  font-weight:bold;
+  font-size:20px;
+}
+#info{
+float:left;
+  width:40%;
+}
