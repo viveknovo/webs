@@ -4,13 +4,13 @@ margin:auto;
 }
 
 #contact{
-text-align:right;
+text-align:center;
   color:deeppink;
   font-weight:bold;
 }
 
 #main{
-  text-align:right;
+  text-align:center;
 background-color:crimson;
 margin-top:10px;
 padding:10px;
@@ -23,7 +23,7 @@ width:100%
 }
 
 #Latestnews{
-  width:40%;
+  width:50%;
   height:10px;
  float:left;
 }
