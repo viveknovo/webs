@@ -10,9 +10,9 @@ h1,h2{
 float: center}
 
 #mainmenu{
-	text-align:center;
+	text-align:right;
 	background-color:red;
-	padding:20px;
+	padding:10px;
 	color:white;
 	font-weight:bold;
 }
