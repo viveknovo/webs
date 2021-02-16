@@ -9,6 +9,9 @@ h1,h2{
 #logo{
 float:center;
 width:100%;}
+#cen{
+width:100%;
+}
 
 #mainmenu{
 	text-align:right;
